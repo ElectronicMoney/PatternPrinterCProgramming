@@ -21,8 +21,8 @@ int main()
     // printFullPeramidStar(numberOfRows);
     // printFullPeramidNumber(numberOfRows);
     // printInvertedFullPeramidStar(numberOfRows);
-    // printPascalsTriangle(numberOfRows);
-    printFloydsTriangle(numberOfRows);
+    printPascalsTriangle(numberOfRows);
+    // printFloydsTriangle(numberOfRows);
     
 
     return 0;
